@@ -5,7 +5,7 @@
 
 
 
-### Level 1 - (22/41) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/51)
+### Level 1 - (23/41) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/51)
 
 ---
 
@@ -158,10 +158,8 @@
 
     
 
-
-
-
-### Level 2 - (1/44)
+- Suffix
+- 최소공배수, 최대공약수 : https://velog.io/@hhhan0315/Level-1-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98-Swift
 
 
 

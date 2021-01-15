@@ -5,7 +5,7 @@
 
 
 
-### Level 1 - (23/41) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/56)
+### Level 1 - (30/41) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/56)
 
 ---
 
@@ -16,7 +16,7 @@
 
 
 
-### Level 2 - (1/44)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
+### Level 2 - (4/44)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
 
 ---
 

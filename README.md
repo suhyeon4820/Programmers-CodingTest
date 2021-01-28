@@ -36,11 +36,11 @@
 
 
 
-### My SQL Level 1 - (5/10)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+### My SQL Level 1 - (5/10) ![50%](https://progress-bar.dev/50)
 
 ---
 
-#### [ 주요내용 ]
+#### [ [주요 내용 ](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)]
 
 - SELECT
 - SUM, MAX, MIN

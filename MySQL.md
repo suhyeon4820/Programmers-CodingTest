@@ -165,25 +165,31 @@
 >NULL 값을 조회
 
 - NULL은 모르는 값(값의 부재)
-- NULL과 
+- NULL과 숫자 혹은 날짜를 더하면 NULL이 됨
+- NULL과 어떤 값ㅇ르 비교할 때 '알 수 없음'이 반환
+- `IS NOT NULL` : NULL값이 아닌 것을 조회
 
-### Ex 9) 
 
-- 동물 보호소에 가장 먼저 들어온 동물은 언제 들어왔는지 조회하는 SQL 문을 작성해주세요.
+
+### Ex 9) 이름이 없는 동물의 아이디
+
+- 동물 보호소에 들어온 동물 중, 이름이 없는 채로 들어온 동물의 ID를 조회하는 SQL 문을 작성해주세요. 단, ID는 오름차순 정렬되어야 합니다.
 
   ```sql
-  SELECT MIN(DATETIME)
-  FROM ANIMAL_INS;
+  SELECT ANIMAL_ID
+  FROM ANIMAL_INS
+  WHERE NAME IS NULL;
   ```
 
 
 
-### Ex 10) 
+### Ex 10) 이름이 있는 동물의 아이디
 
-- 동물 보호소에 동물이 몇 마리 들어왔는지 조회하는 SQL 문을 작성해주세요.
+- 동물 보호소에 들어온 동물 중, 이름이 있는 동물의 ID를 조회하는 SQL 문을 작성해주세요. 단, ID는 오름차순 정렬되어야 합니다.
 
   ```sql
-  SELECT COUNT(ANIMAL_ID)
+  SELECT ANIMAL_ID
   FROM ANIMAL_INS
+  WHERE NAME IS NOT NULL;
   ```
 

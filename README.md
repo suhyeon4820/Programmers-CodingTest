@@ -5,9 +5,7 @@
 
 
 
-### Level 1 - (33/41) ![45%](https://progress-bar.dev/56)
-
----
+## Level 1 - (33/41) ![45%](https://progress-bar.dev/56)
 
 #### [ 주요내용 ]
 
@@ -16,9 +14,7 @@
 
 
 
-### Level 2 - (5/44)![45%](https://progress-bar.dev/5)
-
----
+## Level 2 - (5/44) ![45%](https://progress-bar.dev/5)
 
 #### [ 주요내용 ]
 
@@ -26,9 +22,7 @@
 
 
 
-### Level 3 - (1/44)![45%](https://progress-bar.dev/0)
-
----
+## Level 3 - (1/44) ![40%](https://progress-bar.dev/0)
 
 #### [ 주요내용 ]
 
@@ -36,11 +30,9 @@
 
 
 
-### My SQL Level 1 - (10/10) ![100%](https://progress-bar.dev/50)
+## My SQL Level 1 - (10/10) ![40%](https://progress-bar.dev/100)
 
----
-
-#### [ [주요 내용 ](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)]
+>**[주요 내용](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)**
 
 - SELECT
 - SUM, MAX, MIN
@@ -48,3 +40,11 @@
 
 
 
+## My SQL Level 2 - (2/10) ![40%](https://progress-bar.dev/20)
+
+>**[주요 내용](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)**
+
+- SUM, MAX, MIN
+- IS NULL
+- GROUP BY
+- String, Date

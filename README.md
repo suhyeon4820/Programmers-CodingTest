@@ -5,7 +5,7 @@
 
 
 
-### Level 1 - (33/41) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/56)
+### Level 1 - (33/41) ![45%](https://progress-bar.dev/56)
 
 ---
 
@@ -16,7 +16,7 @@
 
 
 
-### Level 2 - (5/44)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
+### Level 2 - (5/44)![45%](https://progress-bar.dev/5)
 
 ---
 
@@ -26,7 +26,7 @@
 
 
 
-### Level 3 - (1/44)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+### Level 3 - (1/44)![45%](https://progress-bar.dev/0)
 
 ---
 
@@ -36,7 +36,7 @@
 
 
 
-### My SQL Level 1 - (5/10) ![50%](https://progress-bar.dev/50)
+### My SQL Level 1 - (10/10) ![100%](https://progress-bar.dev/50)
 
 ---
 

@@ -6,11 +6,11 @@
 
 
 
-### MySQL Level1 - (10/10) ![45%](https://progress-bar.dev/100) 
+## MySQL Level1 - (10/10)  ![45%](https://progress-bar.dev/100)
 
----
 
-### 1) SELECT
+
+## 1. SELECT
 
 > 테이블에 입력된 데이터를 조회(특정 칼럼/행)하기 위해 SELECT문 사용
 
@@ -42,11 +42,7 @@
     WHERE NAME LIKE 'test_';    // 'test'로 시작하고 하나의 글자만 더 있는 데이터 조회
     ```
 
-    
-
 - LIMIT : 조회 개수
-
-  - OFFSET
 
 
 
@@ -138,9 +134,7 @@
 
 
 
----
-
-### 2) SUM, MAX, MIN 집계함수
+## 2. SUM, MAX, MIN 집계함수
 
 >집계함수(SUM , MAX, MIN, AVG, COUNT)는 계산을 수행하고 단일 값을 반환
 
@@ -160,7 +154,7 @@
 
 
 
-### 3) IS NULL
+## 3. IS NULL
 
 >NULL 값을 조회
 

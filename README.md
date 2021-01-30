@@ -5,7 +5,7 @@
 
 
 
-## Level 1 - (33/41) ![45%](https://progress-bar.dev/56)
+## Level 1 - (34/41) ![45%](https://progress-bar.dev/56)
 
 #### [ 주요내용 ]
 
@@ -48,3 +48,9 @@
 - IS NULL
 - GROUP BY
 - String, Date
+
+
+
+---
+
+- 출처 : 프로그래머스 (https://programmers.co.kr/learn/challenges)

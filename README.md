@@ -5,7 +5,7 @@
 
 
 
-## Level 1 - (37/41) ![45%](https://progress-bar.dev/56)
+## Level 1 - (31/41) ![45%](https://progress-bar.dev/56)
 
 #### [ 주요내용 ]
 
@@ -40,7 +40,7 @@
 
 
 
-## My SQL Level 2 - (2/10) ![40%](https://progress-bar.dev/20)
+## My SQL Level 2 - (7/11) ![40%](https://progress-bar.dev/60)
 
 >**[주요 내용](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)**
 

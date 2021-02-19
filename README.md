@@ -40,7 +40,7 @@
 
 
 
-## My SQL Level 2 - (7/11) ![40%](https://progress-bar.dev/60)
+## My SQL Level 2 - (7/11) ![40%](https://progress-bar.dev/100)
 
 >**[주요 내용](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)**
 

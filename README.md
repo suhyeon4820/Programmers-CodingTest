@@ -12,7 +12,7 @@
 - 고차함수 
 - 배열 (Array)
 
-
+<br>
 
 ## Level 2 - (5/44) ![45%](https://progress-bar.dev/5)
 
@@ -20,7 +20,7 @@
 
 - 
 
-
+<br>
 
 ## Level 3 - (1/44) ![40%](https://progress-bar.dev/0)
 
@@ -28,7 +28,7 @@
 
 - 
 
-
+<br>
 
 ## My SQL Level 1 - (10/10) ![40%](https://progress-bar.dev/100)
 
@@ -38,9 +38,9 @@
 - SUM, MAX, MIN
 - IS NULL
 
+<br>
 
-
-## My SQL Level 2 - (7/11) ![40%](https://progress-bar.dev/100)
+## My SQL Level 2 - (11/11) ![40%](https://progress-bar.dev/100)
 
 >**[주요 내용](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)**
 
@@ -49,7 +49,16 @@
 - GROUP BY
 - String, Date
 
+<br>
 
+## My SQL Level 3 - (/4) ![40%](https://progress-bar.dev/100)
+
+>**[주요 내용](https://github.com/suhyeon4820/Programmers-CodingTest/blob/main/MySQL.md)**
+
+- JOIN
+- String, Date
+
+<br>
 
 ---
 
